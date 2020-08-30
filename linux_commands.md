@@ -10,6 +10,12 @@
 `ls`
 #### List the files in the working directory
 
+`cd`
+#### To change directory
+#### Example uses:
+`cd /usr/bin`
+`cd ..`
+
 
 
 #### List and show all IP addresses associated with all network interfaces:
