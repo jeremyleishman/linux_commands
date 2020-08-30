@@ -16,7 +16,11 @@
 `cd /usr/bin`
 #### or
 `cd ..`
-
+#### or
+`cd ./bin`
+#### (this is the same as cd bin)
+---
+### Viewing directories and files
 
 
 #### List and show all IP addresses associated with all network interfaces:
