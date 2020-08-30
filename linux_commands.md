@@ -14,6 +14,7 @@
 #### To change directory
 #### Example uses:
 `cd /usr/bin`
+#### or
 `cd ..`
 
 
