@@ -34,7 +34,7 @@
 #### /characters to search forward in the text document for your specified characters
 #### n to repeat the previous search
 #### h to display the complete list of less commands and options
-#### q to quit less
+#### q to quit the less utility
 
 
 ---
