@@ -35,7 +35,10 @@
 #### n to repeat the previous search
 #### h to display the complete list of less commands and options
 #### q to quit the less utility
-
+`file`
+#### File lets you examine a file and determines what type of file it is
+`file my_file`
+#### this command will tell you what type of file the 'my_file' is
 
 ---
 ---
