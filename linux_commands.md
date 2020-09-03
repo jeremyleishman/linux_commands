@@ -39,6 +39,20 @@
 #### File lets you examine a file and determines what type of file it is
 `file my_file`
 #### this command will tell you what type of file the 'my_file' is
+---
+### Manipulating Files
+`cp`
+#### Use 'cp' to copy files and directories
+`mv`
+#### Use 'mv' to move or rename files and directories
+`rm`
+#### Use 'rm' to remove files and directories
+`touch`
+#### Use 'touch'to create a file
+`mkdir`
+#### Use 'mkdir' to create direcories
+
+
 
 ---
 ---
