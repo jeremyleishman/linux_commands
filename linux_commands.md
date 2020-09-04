@@ -52,6 +52,9 @@
 `mkdir`
 #### Use 'mkdir' to create direcories
 
+`mkdir --help`
+#### Use this to get the 'help' option of the mkdir command
+#### This will also work for other commands as well - example 'touch --help'
 
 
 ---
