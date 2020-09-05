@@ -56,6 +56,12 @@
 #### Use this to get the 'help' option of the mkdir command
 #### This will also work for other commands as well - example 'touch --help'
 
+`man`
+#### The man command is used to view manuals, or a formal documentation on said command
+#### Example usage:  'man ls'
+#### This will produce the documentation on the 'ls' command (ls is the list directory command)
+
+
 
 ---
 ---
