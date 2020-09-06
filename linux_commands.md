@@ -61,6 +61,11 @@
 #### Example usage:  'man ls'
 #### This will produce the documentation on the 'ls' command (ls is the list directory command)
 
+`> file_list.txt`
+#### Output to a txt file.  Example: ls > file_list.txt
+#### Run the same command again and it will overwrite to the txt file
+#### To append results to the file, use the following:  ls >> file_list.txt
+
 
 
 ---
