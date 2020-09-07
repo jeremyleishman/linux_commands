@@ -66,6 +66,13 @@
 #### Run the same command again and it will overwrite to the txt file
 #### To append results to the file, use the following:  ls >> file_list.txt
 
+#### Standard Input
+`sort < my_text_file.txt`
+#### This will sort the contents of the file you pointed to using the '<'
+#### And output it in the terminal
+
+#### You can also output it to a new txt file as shown below:
+`sort < my_text_file.txt > my_new_sorted_file.txt`
 
 
 ---
