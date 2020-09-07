@@ -69,6 +69,14 @@
 
 
 ---
+
+`users`
+#### This will list the current users logged onto a system
+
+`uptime`
+#### This will list the current systems up time
+
+
 ---
 #### List and show all IP addresses associated with all network interfaces:
 #### This is the same as:
