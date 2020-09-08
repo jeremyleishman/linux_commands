@@ -74,6 +74,9 @@
 #### You can also output it to a new txt file as shown below:
 `sort < my_text_file.txt > my_new_sorted_file.txt`
 
+#### Pipeline - this can be used to connect multiple commands together as shown below:
+`ls -lt | head`
+#### This will show the 10 newest files in the directory which it is run in
 
 ---
 
