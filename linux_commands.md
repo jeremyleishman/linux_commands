@@ -78,7 +78,14 @@
 `ls -lt | head`
 #### This will show the 10 newest files in the directory which it is run in
 
+`du | sort -nr`
+#### Will show a list of directories, directory size and sort them from largest to smallest
+
+
 ---
+
+
+
 
 `users`
 #### This will list the current users logged onto a system
