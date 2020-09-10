@@ -80,6 +80,16 @@
 
 `du | sort -nr`
 #### Will show a list of directories, directory size and sort them from largest to smallest
+---
+---
+
+### Common Filter Commands
+`sort`
+#### Sorts standard input then outputs the sorted result to standard output
+
+`uniq`
+#### Given a sorted stream of data, it removes duplicate lines of data (makes sure it is all unique)
+
 
 
 ---
