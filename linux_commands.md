@@ -90,6 +90,21 @@
 `uniq`
 #### Given a sorted stream of data, it removes duplicate lines of data (makes sure it is all unique)
 
+`grep`
+#### Takes a line of data from standard input and outputs lines that contain specified pattern
+
+`fmt`
+#### Takes text from standard input, outputs formatted text via standard output
+
+`pr`
+#### Takes standard input,splits the data into pages with breaks, headers and footers for printing
+
+`head`
+#### Will output the first several lines of the file used as its argument
+
+`tail`
+#### will output the last severa lines of the file used as its argument
+
 
 
 ---
