@@ -105,6 +105,9 @@
 `tail`
 #### will output the last severa lines of the file used as its argument
 
+`tr`
+#### Translate characters.  Use to uppercase / lowercase conversion
+
 
 
 ---
