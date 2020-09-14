@@ -108,6 +108,17 @@
 `tr`
 #### Translate characters.  Use to uppercase / lowercase conversion
 
+---
+---
+#### Print directly from the command line:
+#### Use `lpr`
+#### `lpr` takes standard input and sends it to the printer
+#### Example:
+
+`cat my_text_file.txt | sort | uniq | pr | lpr`
+
+#### cat sends the txt file to sort wich sorts it and feeds it to
+#### uniq which will remove any duplicates. pr & lpr paginate and print the list
 
 
 ---
