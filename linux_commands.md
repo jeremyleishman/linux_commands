@@ -120,8 +120,25 @@
 #### cat sends the txt file to sort wich sorts it and feeds it to
 #### uniq which will remove any duplicates. pr & lpr paginate and print the list
 
-
 ---
+---
+### Permissions
+
+`chmod` 
+#### Used to change permissions to a file or directory
+
+`su`
+#### Used to temporarily become a superuser
+
+`sudo`
+#### Also used to temporarily become a superuser
+
+`chown`
+#### Used to change file ownership
+
+`chgrp`
+#### Used to change a file's group owner
+
 
 
 
