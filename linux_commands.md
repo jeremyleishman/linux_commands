@@ -138,10 +138,14 @@
 
 `chgrp`
 #### Used to change a file's group owner
+----
+----
 
 `echo *`
 #### This will list all files in the current directory (similar to the ls command)
 
+`echo ~`
+#### This will list all files / directories in the home folder
 
 
 ---
