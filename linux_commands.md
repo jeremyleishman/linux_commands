@@ -2,6 +2,7 @@
 
 # Linux commands for Linux Sysadmins
 ---
+---
 ### Navigation
 
 `pwd`
@@ -19,6 +20,7 @@
 #### or
 `cd ./bin`
 #### (this is the same as cd bin)
+---
 ---
 ### Viewing directories and files
 `ls`
