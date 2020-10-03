@@ -1,8 +1,10 @@
 ##### linux_commands.md
 
 # Linux commands for Linux Sysadmins
+
 ---
 ---
+
 ### Navigation
 
 `pwd`
@@ -82,6 +84,7 @@
 
 `du | sort -nr`
 #### Will show a list of directories, directory size and sort them from largest to smallest
+
 ---
 ---
 
@@ -124,6 +127,7 @@
 
 ---
 ---
+
 ### Permissions
 
 `chmod` 
@@ -169,3 +173,4 @@
 
 ---
 ---
+#### End
