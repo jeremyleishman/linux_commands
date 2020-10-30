@@ -172,5 +172,17 @@
 
 
 ---
+
+#### Show list of last logged in users
+`last`
+
+#### Show list of current logged in users
+`w`
+
+---
+### System Monitoring
+`uptime`
+`top`
+
 ---
 #### End
