@@ -182,7 +182,12 @@
 ---
 ### System Monitoring
 `uptime`
-`top`
+#### will show how long the system has been up
 
+`top`
+#### will show overall system view
+
+`vmstat`
+#### will show system memory, CPU info and running processes
 ---
 #### End
