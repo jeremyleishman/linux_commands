@@ -1,10 +1,8 @@
 ##### linux_commands.md
 
 # Linux commands for Linux Sysadmins
-
 ---
 ---
-
 ### Navigation
 
 `pwd`
